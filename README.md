@@ -50,8 +50,7 @@ Structured the dashboard workflow from **High-Level Indicators to Detailed Insig
 
 ## 🔗 Links & Resources
 
-* **Live Dashboard / Portfolio:** [Aditya Pathak Framer Portfolio Project](https://adityapathak.framer.website/works/https-public.tableau.com-app-profile-adityapathak8187-viz-covid_19_17491575725120-dashboard1)
-* **Tableau Public Viz:** [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/adityapathak8187/viz/covid_19_17491575725120/dashboard1)
+* **Tableau Public Viz:** [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/CoronaVirus2020_17823380693120/Dashboard1)
 
 ---
 
