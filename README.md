@@ -52,12 +52,3 @@ Structured the dashboard workflow from **High-Level Indicators to Detailed Insig
 
 * **Tableau Public Viz:** [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/CoronaVirus2020_17823380693120/Dashboard1)
 
----
-
-## 📌 Repository Descriptions (Quick Copy)
-
-### Short Description (For GitHub Repository "About" Section)
-> An interactive Tableau dashboard converting complex COVID-19 data into clear visual insights across cases, deaths, recoveries, and regional trends. Built by Omkar Pardeshi.
-
-### Detailed Summary
-> **COVID-19 Analytics Dashboard** is an open-source Tableau data visualization project designed to analyze pandemic spread and health indicators across global regions. Built by Omkar Pardeshi, it features dynamic filtering, executive KPI cards, and map-based regional breakdowns to translate complex datasets into clear, interactive visual stories.
